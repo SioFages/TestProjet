@@ -2,8 +2,6 @@ Canard colvert
 Nette rousse
 Canard pilet
 Canard chipeau
-<<<<<<< HEAD
-<<<<<<< HEAD
 Canard siffleur
 Sarcelle d’hiver
 Chevalier culblanc
