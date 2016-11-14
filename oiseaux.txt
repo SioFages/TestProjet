@@ -1,4 +1,4 @@
-Canard colvert
+﻿Canard colvert
 Nette rousse
 Canard pilet
 Canard chipeau
@@ -10,3 +10,6 @@ Courlis corlieu
 Courlis cendré
 Rossignol
 Martinet
+pigeon
+Aigle Royal
+Chouette effraie
