@@ -2,6 +2,7 @@ Canard colvert
 Nette rousse
 Canard pilet
 Canard chipeau
+<<<<<<< HEAD
 Canard siffleur
 Sarcelle d’hiver
 Chevalier culblanc
@@ -9,3 +10,5 @@ Chevalier aboyeur
 Courlis corlieu
 Courlis cendré
 Martinet
+=======
+>>>>>>> 7a6b34a79d3af249572c3c9e0ba59428e538c745
